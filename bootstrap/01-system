@@ -2,9 +2,9 @@
 
 set -xe
 
-TARGET_HOSTNAME="raspberrypi"
-TARGET_TIMEZONE="Europe/Madrid"
-ROOT_PASS=raspberry
+TARGET_HOSTNAME="rpi"
+TARGET_TIMEZONE="Asia/Shanghai"
+ROOT_PASS=123123
 
 # base stuff
 apk add ca-certificates
